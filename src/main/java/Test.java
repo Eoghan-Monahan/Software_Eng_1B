@@ -22,6 +22,6 @@ public class Test {
         testModule1.addStudent(tester);
         testCourse1.addModule(testModule1);
         System.out.println("Course List");
-        System.out.println(testCourse1);
+        System.out.println(courses);
     }
 }
